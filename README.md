@@ -1,5 +1,5 @@
 AI-Programmer
-=========
+=============
 
 Read the full article [Using Artificial Intelligence to Write Self-Modifying/Improving Programs](http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/)
 
@@ -152,21 +152,11 @@ private static int _genomeSize = 50;
 Experiment and have fun!
 
 ## Author
-
-Kory Becker
-http://www.primaryobjects.com/kory-becker
-
-[Using Artificial Intelligence to Write Self-Modifying/Improving Programs](http://www.primaryobjects.com/CMS/Article149)
-
-[Pushing the Limits of Self-Programming Artificial Intelligence](http://www.primaryobjects.com/CMS/Article150)
-
-[Self-Programming Artificial Intelligence Learns to Use Functions](http://www.primaryobjects.com/CMS/Article163)
-
-[BF-Programmer: A Counterintuitive Approach to Autonomously Building Simplistic Programs Using Genetic Algorithms](http://www.primaryobjects.com/bf-programmer-2017.pdf)
+Kazi Saabique Ahmed
 
 View @ GitHub
 https://github.com/primaryobjects/ai-programmer
 
 ## Copyright
 
-Copyright (c) 2018 Kory Becker http://primaryobjects.com/kory-becker
+Copyright (c) 2017 Kazi Saabique Ahmed
